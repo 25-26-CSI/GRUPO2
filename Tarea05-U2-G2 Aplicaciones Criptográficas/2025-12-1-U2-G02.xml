@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 25  -->
+  <question type="matching">
+    <name>
+      <text>2025-12-1-U2-G02-3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Relacione cada componente de PGP con su función principal:</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Protege el contenido del mensaje usando una misma clave para cifrar y descifrar.</span></p>]]></text>
+      <answer>
+        <text>Cifrado simétrico (AES)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Utiliza claves pública y privada para proteger la clave de sesión.</span></p>]]></text>
+      <answer>
+        <text>Cifrado asimétrico (RSA)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Permite comprobar la autenticidad del remitente y que el mensaje no fue modificado.</span></p>]]></text>
+      <answer>
+        <text>Firma digital</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Verifica la integridad del mensaje generando un resumen único.</span></p>]]></text>
+      <answer>
+        <text>Hash criptográfico (SHA-256)</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 23  -->
+  <question type="multichoice">
+    <name>
+      <text>2025-12-1-U2-G02-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">¿Cuál de los siguientes algoritmos se utiliza frecuentemente como función hash en OpenPGP?</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">MD5</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">SHA-256</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">DES</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Blowfish</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24  -->
+  <question type="multichoice">
+    <name>
+      <text>2025-12-1-U2-G02-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Seleccione los servicios de seguridad que proporciona PGP:</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Respuesta correcta</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Respuesta incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Confidencialidad</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Integridad</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Disponibilidad</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Autenticación</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Compresión de datos</span></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 26  -->
+  <question type="shortanswer">
+    <name>
+      <text>2025-12-1-U2-G02-4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">PGP utiliza el algoritmo __________ para cifrado simétrico y el algoritmo RSA para cifrado asimétrico.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>AES</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Advanced Encryption Standard</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 27  -->
+  <question type="truefalse">
+    <name>
+      <text>2025-12-1-U2-G02-5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span lang="ES-EC" style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES-EC; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">PGP utiliza una combinación de cifrado simétrico y asimétrico para proteger la información.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
