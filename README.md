@@ -1,9 +1,9 @@
 Integrantes del Grupo 2
 
-| Integrantes         |
-| ------------------- |
-| **Andino Jhon**   |
-| **Borja Diego**  |
+| Integrantes           |
+| --------------------- |
+| **Andino John**       |
+| **Borja Diego**       |
 | **Cajamarca Anthony** |
-| **Cruz Kevin**      |
-| **Jami Mateo**    |
+| **Cruz Kevin**        |
+| **Jami Mateo**        |
